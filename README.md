@@ -1,4 +1,4 @@
-# Instructions
+# Instruction
 
 Fork this repository to start working on the assignment.
 
